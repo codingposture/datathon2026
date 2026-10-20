@@ -1,0 +1,74 @@
+# Local credentials (keep shareable configuration examples)
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+
+# Frontend dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+.sites-runtime/
+
+# Notebook checkpoints and local experiment output
+.ipynb_checkpoints/
+/runs/
+/artifacts/
+
+# Private dataset, labels, and generated annotations
+/open/
+/review/*
+!/review/camera_profile.template.json
+*.[mM][oO][vV]
+*.[mM][pP]4
+*.avi
+*.mkv
+*.webm
+
+# Model weights, feature caches, and packaged downloads
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.pkl
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.part
+
+# Temporary files, local databases, and logs
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+*.sqlite3
+*.sqlite3-*
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

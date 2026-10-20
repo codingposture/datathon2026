@@ -1,0 +1,12 @@
+# Use the runtime's compatible torch/torchvision pair; do not replace CUDA wheels.
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.7.2
+Pillow==11.3.0
+av==15.1.0
+transformers==4.56.2
+huggingface-hub==0.34.4
+safetensors==0.6.2
+ipywidgets==8.1.7
+matplotlib==3.10.6

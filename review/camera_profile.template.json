@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "profile_id": "supplied_camera",
+  "confirmed": false,
+  "workstation_roi": null,
+  "departure_categories": [],
+  "role_examples": [],
+  "note": "Use the notebook preview controls; confirm development-only cashier and departure examples before saving camera_profile.json. No defaults are confirmed."
+}

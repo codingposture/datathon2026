@@ -1,0 +1,12 @@
+{
+  "name": "datathon-colab-bridge",
+  "displayName": "Datathon Colab Training Bridge",
+  "description": "Run this workspace's training requests through the supported Jupyter kernel API.",
+  "version": "0.1.0",
+  "publisher": "datathon-local",
+  "engines": {"vscode": "^1.85.0"},
+  "main": "./extension.js",
+  "activationEvents": ["onUri"],
+  "extensionDependencies": ["ms-toolsai.jupyter", "google.colab"],
+  "license": "UNLICENSED"
+}

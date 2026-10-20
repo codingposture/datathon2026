@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="516" viewBox="0 0 960 516">
+<defs><pattern id="tiles" width="60" height="60" patternUnits="userSpaceOnUse"><rect width="60" height="60" fill="#e6ebec"/><path d="M60 0H0v60" fill="none" stroke="#d3dbde"/></pattern><pattern id="zone" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="14" height="14" fill="#e7cbd3"/><path d="M0 0v14" stroke="#d9b1be" stroke-width="2"/></pattern></defs>
+<rect width="960" height="516" fill="url(#tiles)"/><path d="M0 50h350v135h210V50h400M100 516V290h240m620 25H730v201" fill="none" stroke="#a2adb3" stroke-width="12"/>
+<rect x="565" y="60" width="383" height="240" fill="url(#zone)"/><path d="M565 298h383" stroke="#a56880" stroke-width="3" stroke-dasharray="12 8"/><text x="625" y="98" font-family="Arial" font-size="17" letter-spacing="3" fill="#946477">STAFF ONLY</text>
+<rect x="370" y="52" width="170" height="80" rx="5" fill="#bec9ce"/><rect x="390" y="63" width="129" height="14" rx="2" fill="#dce3e5"/><text x="389" y="115" font-family="Arial" font-size="12" fill="#72818a" letter-spacing="2">SERVICE DESK</text>
+<g fill="#c0cbd0" stroke="#adbcc3" stroke-width="2"><rect x="125" y="340" width="60" height="90" rx="8"/><rect x="205" y="340" width="60" height="90" rx="8"/><rect x="760" y="355" width="160" height="80" rx="6"/></g>
+<path d="M430 470q135-65 184-188" fill="none" stroke="#a87388" stroke-width="3" stroke-dasharray="8 7"/><path d="m598 286 20-13 3 23" fill="none" stroke="#a87388" stroke-width="3"/>
+<ellipse cx="658" cy="276" rx="32" ry="10" fill="#abb3bd" opacity=".45"/><g fill="#657889"><circle cx="658" cy="192" r="20"/><rect x="638" y="218" width="40" height="43" rx="13"/><path d="m644 252-5 32h15l4-25 4 25h15l-5-32Z"/></g>
+<rect x="616" y="163" width="85" height="135" rx="3" fill="none" stroke="#973754" stroke-width="3"/><rect x="616" y="140" width="151" height="24" rx="3" fill="#973754"/><text x="626" y="156" font-family="Arial" font-size="11" fill="white" letter-spacing="1">RESTRICTED ENTRY</text>
+<rect x="24" y="22" width="233" height="29" rx="4" fill="#263743"/><circle cx="39" cy="36" r="4" fill="#c7859d"/><text x="52" y="41" font-family="Arial" font-size="11" fill="#fff" letter-spacing="1.4">FICTIONAL LOBBY · ZONE A</text><text x="840" y="42" font-family="Arial" font-size="13" fill="#536571">00:01:23</text>
+<text x="760" y="484" font-family="Arial" font-size="10" letter-spacing="2" fill="#7e909b">SCHEMATIC VIEW</text>
+</svg>

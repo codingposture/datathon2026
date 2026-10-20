@@ -1,0 +1,3 @@
+Now, the project has frontend, and the AI model. You are a professional full-stack React, DRF developer, your task is to create API that connects the frontend to the AI. Read the "Кейс_ForteBank.docx" file to get requirements for the backend, and start implementing the backend.
+Keep the backend code minimal and simple. No models are needed and no data are needed to be saved. You just need to make so that users from frontend can send video and response will be sent with wether violation was committed, at what timestamp and what type of violation was made etc.
+Before getting started, ask questions for clarification.
